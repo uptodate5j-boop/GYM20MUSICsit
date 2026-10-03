@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gym20musicsit.uptodate5j.workers.dev/sitemap.xml
