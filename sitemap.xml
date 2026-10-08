@@ -14,4 +14,10 @@
     <priority>0.8</priority>
   </url>
 
+  <url>
+    <loc>https://gym20musicsit.uptodate5j.workers.dev/calisthenics.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
